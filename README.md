@@ -33,5 +33,5 @@ We are using Python to complete this project
 
 ![Image](https://github.com/user-attachments/assets/d1933c92-9a5a-4d23-9ef1-6afe507d76b0)
 
-#Conclusion
+# Conclusion
 We are able to achieve the desired result by extracting the data from the table in the website to the dataframe. This data can now to moved further into a .csv file or Excel for further analysis or we can even analyze the dataframe further for finding meaningful insights
